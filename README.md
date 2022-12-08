@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @puzzelchannel
+- 👀 I’m interested in learning new thing
+- 🌱 I’m currently learning python and django
+- 💞️ I’m looking to collaborate on a team than can improve my knowledge and can achive all of our goal together
+- 📫 to contact me :
+- gmail => puzzllium@gmail.com
+- telegram => @puzzllium
+- linkedin => linkedin.com/in/sajad-rajabi-a8648a191 
